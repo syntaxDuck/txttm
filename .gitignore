@@ -1,0 +1,8 @@
+*.txt
+
+# Ignore all files named 'main'
+main
+
+# Allow 'main.c'
+!main.c
+
